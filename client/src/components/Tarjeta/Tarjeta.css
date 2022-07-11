@@ -1,0 +1,35 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 15px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+  
+
+.card-container {
+    width: 25%;
+    margin: 5px 5px 5px 5px;
+    padding: 45px;
+    background-color: var(--color-bg-tertiary);
+}
+
+.info-card {
+    padding: 2px 16px 10px 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: var(--color-bg-tertiary);
+    background-color: var(--color-bg);
+}
+
+.img-game {
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    
+}
+
+

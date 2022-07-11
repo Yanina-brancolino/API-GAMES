@@ -1,0 +1,16 @@
+
+body{
+    --color-bg: #F4C44E;
+    --color-bg-secondary: white;
+    --color-bg-tertiary: black;
+    --color-text: white;
+    --color-text-secondary: #F4C44E;
+}
+
+
+.parent {
+    background-color: var(--color-bg);
+    width: 100%;
+}
+
+
